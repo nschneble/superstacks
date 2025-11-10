@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /stumble$
+Allow: /
+Sitemap: https://superstack.fancyenchiladas.net/sitemap.xml
