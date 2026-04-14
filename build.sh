@@ -8,7 +8,7 @@ for page in js rails; do
 done
 
 # compile css
-mkdir public/css && sass css/style.scss $_/style.css
+mkdir public/css && /opt/homebrew/bin/sass css/style.scss $_/style.css
 
 # create javascript, images, and favicons
 for assets in js images; do
