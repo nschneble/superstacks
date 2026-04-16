@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://superstack.fancyenchiladas.net/</loc>
-		<lastmod>2025-11-10</lastmod>
+		<lastmod>2026-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -14,7 +14,7 @@
 	</url>
 	<url>
 		<loc>https://superstack.fancyenchiladas.net/rails/</loc>
-		<lastmod>2025-11-10</lastmod>
+		<lastmod>2026-04-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
